@@ -1,0 +1,11 @@
+.portrait-text:hover,
+.city-text:hover,
+.nature-text:hover {
+  font-weight: bolder;
+}
+
+.nature-text,
+.portrait-text,
+.city-text {
+  display: inline;
+}
